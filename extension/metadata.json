@@ -1,0 +1,11 @@
+{
+  "uuid": "google-messages@juanton.local",
+  "name": "Google Messages",
+  "description": "Top-bar Google Messages client for SMS and RCS. Left-click shows or hides the window. Uses Messages for web with juanton@wahcha.com.",
+  "shell-version": ["51"],
+  "version": 1,
+  "version-name": "1.0",
+  "settings-schema": "org.gnome.shell.extensions.google-messages",
+  "url": "https://github.com/juanton69/messages-gnome",
+  "session-modes": ["user"]
+}

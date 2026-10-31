@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.google-messages" path="/org/gnome/shell/extensions/google-messages/">
+    <key name="google-account" type="s">
+      <default>'juanton@wahcha.com'</default>
+      <summary>Google account</summary>
+      <description>Account offered first when signing in to Messages for web.</description>
+    </key>
+    <key name="start-hidden" type="b">
+      <default>true</default>
+      <summary>Start helper hidden</summary>
+      <description>Keep the Messages window hidden until the top-bar icon is clicked.</description>
+    </key>
+  </schema>
+</schemalist>

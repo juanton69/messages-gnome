@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Version=1.5
+Name=Google Messages
+GenericName=SMS and RCS
+Comment=Google Messages for GNOME
+Exec=messages-gnome %u
+Icon=org.juanton.MessagesGnome
+TryExec=messages-gnome
+Terminal=false
+StartupNotify=true
+StartupWMClass=org.juanton.MessagesGnome
+DBusActivatable=true
+Categories=Network;InstantMessaging;Chat;GTK;GNOME;
+Keywords=messages;google;sms;rcs;mms;text;chat;android;
+X-GNOME-UsesNotifications=true
+X-GNOME-Autostart-enabled=false
